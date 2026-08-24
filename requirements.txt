@@ -1,0 +1,10 @@
+streamlit
+opencv-python
+numpy
+pandas
+mysql-connector-python
+Pillow
+face-recognition
+python-dotenv
+openpyxl
+bcrypt
