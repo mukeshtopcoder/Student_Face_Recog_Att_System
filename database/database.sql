@@ -1,3 +1,6 @@
+CREATE DATABASE dlproject;
+Use dlproject;
+
 create table students(
   student_id varchar(20) PRIMARY KEY,
   name varchar(100) NOT NULL,
@@ -32,3 +35,6 @@ create table students(
   foreign key(student_id)
   references students(student_id)
   );
+  
+
+  
