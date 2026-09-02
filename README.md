@@ -32,7 +32,7 @@ Install the following before starting:
 Open PowerShell or a terminal and move to the project folder:
 
 ```powershell
-cd "C:\Users\Mukesh\Documents\Codex\2026-09-01\hi"
+cd "your_file_path"
 ```
 
 Create and activate a virtual environment:
